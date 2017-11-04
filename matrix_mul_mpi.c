@@ -5,7 +5,7 @@
 
 /*
   This program utilizes MPI to calculate the product of two matricies.  The main
-  object is to send the entire matrix B and slices of rows from matrix A.  After
+  objective is to send the entire matrix B and slices of rows from matrix A.  After
   the calculation is performed, the calculated result matrix will be displayed
   for the user in a presentable format.  At this moment the matrices have to be
   hardcoded due to debugging issues with reading from a file.  Will be updated in
